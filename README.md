@@ -1,4 +1,4 @@
-# Raspberry Pi: 
+# Raspberry Pi: Temperatur & Luftfeuchtigkeit messen
 
 ![](/images/2016-10-08-160640_1280x1024_scrot_beitragsbild-1102x350.jpg)
 
