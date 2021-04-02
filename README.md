@@ -9,4 +9,4 @@ Mit dem Temperatur/Luftfeuchtigkeits-Sensor messen wir die Werte in der Umgebung
 Pfadfinderinnen- und Pfadfinderstufe
 
 
-http://dev-blog.vcp.de/raspberry-pi-temperatur-luftfeuchtigkeit-messen/
+<!--http://dev-blog.vcp.de/raspberry-pi-temperatur-luftfeuchtigkeit-messen/-->
